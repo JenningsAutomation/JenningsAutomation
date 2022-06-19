@@ -1,8 +1,8 @@
-<!-- ### Hi there, I'm Demian 
+### Hi there, I'm Demian 
 
 ## I'm a Developer and Cybersecurity specialist!
-- I'm currently working on web automation and Cybersecurity projects
-- I love all things automation. -->
+- I'm currently working on Web Automation and Cybersecurity projects
+- I love all things automation.
 
 <!-- ### Connect with me: 
 
