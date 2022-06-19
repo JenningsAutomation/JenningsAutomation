@@ -26,6 +26,10 @@
 
 <img alt="Javascript" align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
+<img alt="AWS" align="left" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+<img alt="Docker" align="left" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+
 <!-- ![Demian's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenningsautomation&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenningsautomation&layout=compact)](https://github.com/jenningsautomation/github-readme-stats) -->
