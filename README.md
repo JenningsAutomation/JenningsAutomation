@@ -18,10 +18,17 @@
 <!-- 
 [linkedin]: https://www.linkedin.com/in/demian-jennings-901734212/ -->
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jenningsautomation&show_icons=true&theme=radical"/>
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jenningsautomation&show_icons=true&theme=radical"/>
 
-<img align="left" width="47%" src="https://github.com/jenningsautomation/github-readme-stats"/>
+<img align="left" width="47%" src="https://github.com/jenningsautomation/github-readme-stats"/> -->
 
 <!-- ![Demian's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenningsautomation&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenningsautomation&layout=compact)](https://github.com/jenningsautomation/github-readme-stats) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
