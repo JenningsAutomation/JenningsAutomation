@@ -20,7 +20,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jenningsautomation&show_icons=true&theme=radical"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_icons=true&theme=radical"/>
 
 <!-- ![Demian's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenningsautomation&show_icons=true&theme=radical)
 
